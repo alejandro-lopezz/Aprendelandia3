@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.35731.53
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winFormPractica", "winFormPractica.csproj", "{7108EFDB-27C5-48DC-A8AD-82649C67B08B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "..\negocio\negocio.csproj", "{8DC653A6-3AFC-463F-BB4E-BC99981320F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "..\dominio\dominio.csproj", "{47E60EF8-2F49-497D-895E-94AF4D9FE69C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7108EFDB-27C5-48DC-A8AD-82649C67B08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7108EFDB-27C5-48DC-A8AD-82649C67B08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7108EFDB-27C5-48DC-A8AD-82649C67B08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC653A6-3AFC-463F-BB4E-BC99981320F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC653A6-3AFC-463F-BB4E-BC99981320F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC653A6-3AFC-463F-BB4E-BC99981320F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC653A6-3AFC-463F-BB4E-BC99981320F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47E60EF8-2F49-497D-895E-94AF4D9FE69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E60EF8-2F49-497D-895E-94AF4D9FE69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E60EF8-2F49-497D-895E-94AF4D9FE69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E60EF8-2F49-497D-895E-94AF4D9FE69C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
